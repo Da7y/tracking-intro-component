@@ -205,6 +205,7 @@ p.attribution {
     .humberger {
         transform: translateX(17vw);
         display: inline-block;
+        cursor: pointer;
     }
 
 
@@ -213,7 +214,6 @@ p.attribution {
         width: 30px;
         background-color: hsl(230, 29%, 20%);
         margin: 5px;
-        cursor: pointer;
         transition: all .6s ease-out;
     }
     
